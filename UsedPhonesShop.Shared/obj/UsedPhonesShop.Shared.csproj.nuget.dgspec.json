@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\simoa\\UsedPhonesShop-Blazor\\UsedPhonesShop.Shared\\UsedPhonesShop.Shared.csproj": {}
+    "C:\\Users\\simoa\\OneDrive\\Documents\\GIT REPOS\\UsedPhonesShop\\UsedPhonesShop.Shared\\UsedPhonesShop.Shared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\simoa\\UsedPhonesShop-Blazor\\UsedPhonesShop.Shared\\UsedPhonesShop.Shared.csproj": {
+    "C:\\Users\\simoa\\OneDrive\\Documents\\GIT REPOS\\UsedPhonesShop\\UsedPhonesShop.Shared\\UsedPhonesShop.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\simoa\\UsedPhonesShop-Blazor\\UsedPhonesShop.Shared\\UsedPhonesShop.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\simoa\\OneDrive\\Documents\\GIT REPOS\\UsedPhonesShop\\UsedPhonesShop.Shared\\UsedPhonesShop.Shared.csproj",
         "projectName": "UsedPhonesShop.Shared",
-        "projectPath": "C:\\Users\\simoa\\UsedPhonesShop-Blazor\\UsedPhonesShop.Shared\\UsedPhonesShop.Shared.csproj",
+        "projectPath": "C:\\Users\\simoa\\OneDrive\\Documents\\GIT REPOS\\UsedPhonesShop\\UsedPhonesShop.Shared\\UsedPhonesShop.Shared.csproj",
         "packagesPath": "C:\\Users\\simoa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\simoa\\UsedPhonesShop-Blazor\\UsedPhonesShop.Shared\\obj\\",
+        "outputPath": "C:\\Users\\simoa\\OneDrive\\Documents\\GIT REPOS\\UsedPhonesShop\\UsedPhonesShop.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

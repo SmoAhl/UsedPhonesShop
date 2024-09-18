@@ -5175,11 +5175,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\simoa\\UsedPhonesShop-Blazor\\UsedPhonesShopAPI\\UsedPhonesShopAPI.csproj",
+      "projectUniqueName": "C:\\Users\\simoa\\OneDrive\\Documents\\GIT REPOS\\UsedPhonesShop\\UsedPhonesShopAPI\\UsedPhonesShopAPI.csproj",
       "projectName": "UsedPhonesShopAPI",
-      "projectPath": "C:\\Users\\simoa\\UsedPhonesShop-Blazor\\UsedPhonesShopAPI\\UsedPhonesShopAPI.csproj",
+      "projectPath": "C:\\Users\\simoa\\OneDrive\\Documents\\GIT REPOS\\UsedPhonesShop\\UsedPhonesShopAPI\\UsedPhonesShopAPI.csproj",
       "packagesPath": "C:\\Users\\simoa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\simoa\\UsedPhonesShop-Blazor\\UsedPhonesShopAPI\\obj\\",
+      "outputPath": "C:\\Users\\simoa\\OneDrive\\Documents\\GIT REPOS\\UsedPhonesShop\\UsedPhonesShopAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5200,8 +5200,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\simoa\\UsedPhonesShop-Blazor\\UsedPhonesShop.Shared\\UsedPhonesShop.Shared.csproj": {
-              "projectPath": "C:\\Users\\simoa\\UsedPhonesShop-Blazor\\UsedPhonesShop.Shared\\UsedPhonesShop.Shared.csproj"
+            "C:\\Users\\simoa\\OneDrive\\Documents\\GIT REPOS\\UsedPhonesShop\\UsedPhonesShop.Shared\\UsedPhonesShop.Shared.csproj": {
+              "projectPath": "C:\\Users\\simoa\\OneDrive\\Documents\\GIT REPOS\\UsedPhonesShop\\UsedPhonesShop.Shared\\UsedPhonesShop.Shared.csproj"
             }
           }
         }
