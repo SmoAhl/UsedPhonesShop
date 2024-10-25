@@ -137,7 +137,7 @@
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Alternative</AssetRole>
-      <RelatedAsset>C:\Users\simoa\UsedPhonesShop-Blazor\UsedPhonesShopWasm\bin\Debug\net8.0\wwwroot\_framework\blazor.webassembly.js</RelatedAsset>
+      <RelatedAsset>C:\Users\simoa\OneDrive\Documents\GITREPOS\UsedPhonesShop\UsedPhonesShopWasm\bin\Debug\net8.0\wwwroot\_framework\blazor.webassembly.js</RelatedAsset>
       <AssetTraitName>Content-Encoding</AssetTraitName>
       <AssetTraitValue>gzip</AssetTraitValue>
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>

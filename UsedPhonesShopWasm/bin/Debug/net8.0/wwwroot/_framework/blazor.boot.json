@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "UsedPhonesShopWasm",
   "resources": {
-    "hash": "sha256-/V3x8Lv+K6pYDnmrfslEkNfwPZLpf0cMbI8wBEh+ook=",
+    "hash": "sha256-Y4AOwAkL0DaNFM8ZphbY00Njcv2ya3hFfIc8w7ZM/Hw=",
     "jsModuleNative": {
       "dotnet.native.8.0.3.uqn0khwu2p.js": "sha256-D4sYBYmDfH/YekgYRgX959/2RG6k28sJSHmcsn+iikk="
     },
@@ -260,12 +260,12 @@
       "mscorlib.wasm": "sha256-/xjZuJwCmantx5vGyH5ZZ8keySSTeu+YHKQRJbZzcuM=",
       "netstandard.wasm": "sha256-vuFKmCGJbyv85DrzI6S1ZvCikuhIllH6hqbXIL+fUAA=",
       "System.Private.CoreLib.wasm": "sha256-SZkozEDkHEFN0VaDmhl2HOenGaqTOmHqEGkraz3Aejc=",
-      "UsedPhonesShop.Shared.wasm": "sha256-AANsmeqoa9Ze/6aBaSzx8En3FFQMPWEAiMJ/UBdnxmM=",
-      "UsedPhonesShopWasm.wasm": "sha256-uRgWOwYFXFAWJiml3guvRWqi8JhVtUHshakPKmBuQaM="
+      "UsedPhonesShop.Shared.wasm": "sha256-9naVDaR1WS6J0RkmC3KWc1vUjSdWZgCYVlTZfU4E2PE=",
+      "UsedPhonesShopWasm.wasm": "sha256-G7Vj0mAD1bG/BbHPiu/jE9ypRPJcXNV9hbm98pra7LI="
     },
     "pdb": {
-      "UsedPhonesShop.Shared.pdb": "sha256-X2NfMy/4LQhbv8W3prpUD9cXLhVmxSfBZ5j2gePO1EY=",
-      "UsedPhonesShopWasm.pdb": "sha256-n6bDYi5kl/QgaBJo90KW6rRjEZH7HBztPfV7FNhPoGM="
+      "UsedPhonesShop.Shared.pdb": "sha256-ThiwARIDjmLhKkB3yamKCVuALfI72Vh5vJ5tX4QL3yU=",
+      "UsedPhonesShopWasm.pdb": "sha256-+9TRzAopyVQDFYbbxZ2WmR7hn1K8ClwnIYWpJ+AgwFU="
     },
     "satelliteResources": {
       "cs": {

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1YUvAzf8ZJU=",
+  "dgSpecHash": "OTPBSBZJ7sUlpE44XbwihTf6+9tJEDHVvrV3E06pVRCdVcIbgUt/S9dvaiKXTP79v9DAgiX/GCVpbOl2pLiALA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\simoa\\OneDrive\\Documents\\GIT REPOS\\UsedPhonesShop\\UsedPhonesShop.Shared\\UsedPhonesShop.Shared.csproj",
+  "projectFilePath": "C:\\Users\\simoa\\OneDrive\\Documents\\GITREPOS\\UsedPhonesShop\\UsedPhonesShop.Shared\\UsedPhonesShop.Shared.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\simoa\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\simoa\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
